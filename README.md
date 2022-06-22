@@ -2,4 +2,9 @@
 Inspired by InvaderChaos' "SOCKrecolored" mod!
 
 ### What this mod does:
-> Adds a tiled texture to SOCK's Shuttle Command Pod, Delta Wings, and Payload Bay to match Columbia and Challenger's real life appearance.
+- Adds a tiled texture to SOCK's Shuttle Command Pod, Delta Wings, and Payload Bay to match Columbia and Challenger's real life appearance.
+
+### Dependencies:
+This mod wont work if you don't have these installed:
+- [Shuttle Orbiter Construction Kit](https://forum.kerbalspaceprogram.com/index.php?/topic/186023-111-shuttle-orbiter-construction-kit-stockalike-space-shuttle-orbiter-tubes-v116/) by Benjee10
+- [SOCKrecolored](https://forum.kerbalspaceprogram.com/index.php?/topic/195154-111x-shuttle-orbiter-construction-kit-recolored-version-13/) by InvaderChaos
