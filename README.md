@@ -6,5 +6,6 @@ Inspired by InvaderChaos' **SOCKrecolored** mod!
 
 ### Dependencies:
 This mod wont work if you don't have these installed:
-- [Shuttle Orbiter Construction Kit](https://forum.kerbalspaceprogram.com/index.php?/topic/186023-111-shuttle-orbiter-construction-kit-stockalike-space-shuttle-orbiter-tubes-v116/) by Benjee10
+- [Shuttle Orbiter Construction Kit](https://forum.kerbalspaceprogram.com/index.php?/topic/186023-111-shuttle-orbiter-construction-kit-stockalike-space-shuttle-orbiter-tubes-v116/) and its dependencies by Benjee10
 - [SOCKrecolored](https://forum.kerbalspaceprogram.com/index.php?/topic/195154-111x-shuttle-orbiter-construction-kit-recolored-version-13/) by InvaderChaos
+- [B9PartSwitch](https://forum.kerbalspaceprogram.com/index.php?/topic/140541-1112-b9partswitch-v2180-march-17/) by blowfish
