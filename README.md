@@ -13,4 +13,4 @@ This mod wont work if you don't have these installed:
 ### Credits:
 - SS Enterprise textures: [LilBread402 / AstroMods](https://forum.kerbalspaceprogram.com/index.php?/profile/208484-astromods/)
 - Toasty Discovery textures: [lemon cup](https://forum.kerbalspaceprogram.com/index.php?/profile/199693-lemon-cup/)
-- SS Enterprise shutters: [MATVEICH_YT / matvey](https://forum.kerbalspaceprogram.com/index.php?/profile/221990-matveich_yt/)
+- SS Enterprise shutters: [MATVEICH_YT / matvey00701](https://forum.kerbalspaceprogram.com/index.php?/profile/221990-matveich_yt/)
