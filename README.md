@@ -2,7 +2,9 @@
 Inspired by InvaderChaos' **SOCKrecolored** mod!
 
 ### What this mod does:
-- Adds a tiled texture to SOCK's Shuttle Command Pod, Delta Wings, and Payload Bay to match Columbia and Challenger's real life appearance.
+- Adds textures that match Columbia and Challenger's appearance in real life.
+- Adds a weathered shuttle texture (lemon cup).
+- Adds textures and window shutters for SS Enterprise (LilBread402, matvey00701).
 
 ### Dependencies:
 This mod wont work if you don't have these installed:
@@ -13,3 +15,4 @@ This mod wont work if you don't have these installed:
 ### Credits:
 - SS Enterprise textures: [LilBread402 / AstroMods](https://forum.kerbalspaceprogram.com/index.php?/profile/208484-astromods/)
 - Toasty Discovery textures: [lemon cup](https://forum.kerbalspaceprogram.com/index.php?/profile/199693-lemon-cup/)
+- SS Enterprise shutters: [MATVEICH_YT / matvey00701](https://forum.kerbalspaceprogram.com/index.php?/profile/221990-matveich_yt/)
