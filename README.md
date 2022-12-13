@@ -1,10 +1,12 @@
 # SOCKrepainted
 Inspired by InvaderChaos' **SOCKrecolored** mod!
 
-### What this mod does:
-- Adds textures that match Columbia and Challenger's appearance in real life.
-- Adds a weathered shuttle texture (lemon cup).
-- Adds textures and window shutters for SS Enterprise (LilBread402, matvey00701).
+### This mod adds:
+- Tiled cockpit, payload bay, delta wings, elevons, and rudder.
+- Early aft fuselage tile pattern.
+- Toasted texture for based on STS-133 (lemon cup).
+- Textures and window shutters for SS Enterprise (LilBread402, matvey00701).
+- Early delta wings blanket pattern.
 
 ### Dependencies:
 This mod wont work if you don't have these installed:
